@@ -1,2 +1,2 @@
 # st230106
-study DL ANN2
+study DL DNN2
